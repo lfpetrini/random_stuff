@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1512003760 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	"mergesort.h"
+
+1512003546 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/mergesort.h
+
+1512086034 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/mergesort.c
+	<stdio.h>
+	"mergesort.h"
+
+1512003725 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/common.c
+	<stdio.h>
+	"common.h"
+
+1512003587 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/common.h
+
