@@ -34,6 +34,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="include/common.h" />
+		<Unit filename="include/heapsort.h" />
 		<Unit filename="include/mergesort.h" />
 		<Unit filename="src/common.c">
 			<Option compilerVar="CC" />
