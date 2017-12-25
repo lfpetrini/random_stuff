@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #include "mergesort.h"
+#include "heapsort.h"
 
 /**
  * sort_and_print_randoms(int (*)(int*,int), int)
@@ -33,6 +34,9 @@ int main()
 {
     // set the seed for random numbers
     srand(time(NULL));
+    printf("Running mergesort algorithm:\n");
     sort_and_print_randoms(&mergesort, 15);
+    printf("\nRunning heapsort algorithm:\n");
+    sort_and_print_randoms(&heapsort, 15);
     return 0;
 }

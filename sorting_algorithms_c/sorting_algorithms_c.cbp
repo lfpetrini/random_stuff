@@ -36,13 +36,20 @@
 		<Unit filename="include/common.h" />
 		<Unit filename="include/heapsort.h" />
 		<Unit filename="include/mergesort.h" />
+		<Unit filename="include/quicksort.h" />
 		<Unit filename="src/common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/heapsort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/mergesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/quicksort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
