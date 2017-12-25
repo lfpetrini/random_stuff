@@ -19,8 +19,7 @@
 void sort_and_print_randoms(int (*pSortingFunction)(int*, int), int pSize) {
     int list[pSize];
     // populate array with random numbers
-    int i;
-    for(i = 0; i < pSize; i++)
+    for(int i = 0; i < pSize; i++)
         list[i] = rand() % 1000;
     printf("Generated list: ");
     print_array_int(list, pSize);

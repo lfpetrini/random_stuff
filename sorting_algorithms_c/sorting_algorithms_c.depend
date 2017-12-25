@@ -11,15 +11,17 @@
 	<stdio.h>
 	"mergesort.h"
 
-1514183798 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/common.c
+1514243500 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/common.c
 	<stdio.h>
 	"common.h"
 
 1514185889 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/common.h
 
-1514186227 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/heapsort.c
+1514241457 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/heapsort.c
 	<stdio.h>
 	"heapsort.h"
 
 1514243362 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/heapsort.h
+
+1514243576 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/quicksort.c
 
