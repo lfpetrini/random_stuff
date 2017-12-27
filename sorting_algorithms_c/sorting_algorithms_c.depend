@@ -1,27 +1,34 @@
 # depslib dependency file v1.0
-1514186299 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/main.c
+1514334466 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
+	"common.h"
 	"mergesort.h"
 	"heapsort.h"
+	"quicksort.h"
 
 1512087158 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/mergesort.h
 
-1512088278 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/mergesort.c
-	<stdio.h>
+1514260198 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/mergesort.c
 	"mergesort.h"
 
-1514243500 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/common.c
+1514330334 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/common.c
 	<stdio.h>
 	"common.h"
 
-1514185889 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/common.h
+1514331619 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/common.h
 
-1514241457 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/heapsort.c
-	<stdio.h>
+1514260233 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/heapsort.c
+	"common.h"
 	"heapsort.h"
 
 1514243362 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/heapsort.h
 
-1514243576 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/quicksort.c
+1514335119 source:/home/lucas/workspace/random_stuff/sorting_algorithms_c/src/quicksort.c
+	<stdlib.h>
+	"common.h"
+	"quicksort.h"
+
+1514243411 /home/lucas/workspace/random_stuff/sorting_algorithms_c/include/quicksort.h
 
